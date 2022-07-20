@@ -1,8 +1,8 @@
-<h1 align="left">miqueas</h1>
+<h1 align="left">Miqueas</h1>
 
 ###
 
-<p align="left">JOSUEBRUSA</p>
+<p align="left">JOSUE BRUSA</p>
 
 ###
 
